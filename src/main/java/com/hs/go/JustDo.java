@@ -11,5 +11,6 @@ public class JustDo {
         System.out.println("dev");
         System.out.println("---------------");
         System.out.println("second=================================");
+        System.out.println("comment 撤回未push"+"reset HEAD^"+"HEAD~2");
     }
 }
